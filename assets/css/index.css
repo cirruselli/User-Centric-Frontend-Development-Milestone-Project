@@ -3,14 +3,20 @@
     margin-top: 60px;    
 }
 
-.carousel-item {
-    align-items: center;
-}
-
 .carousel-item img {
     max-width: 80%;
     max-height: 80%;
 }
 
 
+@media only screen and (max-width: 600px) {
+    .carousel-item {
+        margin-left: 40px;
+    }
+}
 
+@media only screen and (min-width: 600px) {
+    .carousel-item {
+        margin-left: 250px;
+    }
+}
