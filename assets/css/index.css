@@ -1,0 +1,16 @@
+
+#carouselExampleIndicators {
+    height: 93vh;
+    /*padding-top: 60px;
+    padding-bottom: 200px;*/
+    clear: both;
+}
+
+.carousel-indicators {
+    margin-bottom: -250px;
+}
+
+.carousel-item {
+    height: 100%
+    width: 100%
+}
