@@ -1,11 +1,18 @@
-img {
-    width: 100%;
+.img-fluid {
+    margin-top: 1rem;
+    border-radius: 5%;
 }
 
 .container-fluid p {
-    margin: 20px;
+    text-align: center;
+    margin: 2rem;
+    margin-top: 4rem;
+    margin-left: 4rem;
 }
 
-.containter-fluid img {
-    width: 100%;
+@media only screen and (max-width: 900px) {
+    .container-fluid p {
+        margin-top: 1rem;
+        margin-left: 2rem;
+    }
 }

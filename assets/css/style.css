@@ -1,14 +1,19 @@
 body {
     font-family: Roboto, sans-serif;
+    padding: 0;
+    margin: 0;
 }
 
+/* --------------------------------------------------Navbar */
 
+.background {
+    background-color: rgb(12, 105, 66);
+}
 
-/* -------------------------------Navbar */
-
-
-.bg-dark {
-    background-color: rgb(12, 105, 66) !important;
+.navbar {
+    margin: 0;
+    border: 0;
+    position: relative;
 }
 
 .navbar-brand {
@@ -16,7 +21,11 @@ body {
     font-weight: 500;
 }
 
-/* -------------------------------Footer */
+.navbar-nav li {
+    font-size: 1.25rem;
+}
+
+/* --------------------------------------------------Footer */
 
 footer {
     height: 50px;

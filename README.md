@@ -9,7 +9,7 @@ Essentially, this part is your sales pitch.
 ### User stories
 - As a family we would like to go far out in the nature without our car. 
 
-- As Wilma is new to horses she would like to go for a ride to try it out.
+- As Wilma is new to horses she would like to go for a shorter ride to try it out.
 
 - As Sven like the wildlife he would appreciate a few days out in nature from horseback to experience the wildlife at its best.
 
@@ -22,14 +22,14 @@ In this section, you should go over the different parts of your project, and des
 ### Existing Features
 - Feature 1 - allows users X to achieve Y, by having them fill out Z
 - "Landing page" allows users to navigate to the other pages by the navbar. Also visit social media via the links in the footer.
-- "Homepage" allows visitors to know more about the webpage owner. 
-- "Trails" allows users to know about the trailrides available.
+- "About" page allows visitors to know more about the webpage owner. 
+- "Trails" page allows users to know about available trailrides.
 
 For some/all of your features, you may choose to reference the specific project files that implement them, although this is entirely optional.
 
 
 ### Features Left to Implement
-- Present the horses available for the trailride under a section called "Horses". 
+- Present the horses available for the trailrides under a page called "Horses". 
 
 ## Technologies Used
 
@@ -38,6 +38,7 @@ In this section, you should mention all of the languages, frameworks, libraries,
 - CSS
 - Bootstrap -
 - Font Awesome - for icons in the footer
+- Google fonts -
 - [JQuery](https://jquery.com)
     - The project uses **JQuery** to simplify DOM manipulation.
 
@@ -79,8 +80,42 @@ In addition, if it is not obvious, you should also describe how to run your code
 ### Content
 - The text for section Y was copied from the [Wikipedia article Z](https://en.wikipedia.org/wiki/Z)
 
+The text for "about" page was copied from
+(http://www.ride-israel.com/?page_id=715&gclid=CjwKCAjwkPX0BRBKEiwA7THxiOV2KCsJluCOM1TPXn9hbpDDzM6Is8Abp39E5QmqbKapEybmlFTnNRoCChMQAvD_BwE)
+and
+(https://arizonahorsebackadventures.com/about/)
+
+
+The text for "trails" and "about" was copied from:
+https://arizonahorsebackadventures.com/
+
+and the last piece of text for "about" was copied from:
+(http://www.ride-israel.com/?page_id=715&gclid=Cj0KCQjws_r0BRCwARIsAMxfDRh-vUVlbSgrbE3x21eW4orB1woYzDiTn9VzdLKfxAQlGcd0qNkPn0UaAu2KEALw_wcB)
+
+
 ### Media
-- The photos used in this site were obtained from ...
+- The photos used in this site were obtained from 
+Picture 1:
+https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.flickr.com%2Fphotos%2Ffamiljenhelsingborg%2F16355825184&psig=AOvVaw1eAb39VFU8odY7gGOM09HO&ust=1587458558900000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCJiij5DO9ugCFQAAAAAdAAAAABAQ
+
+Picture 2:
+https://www.google.com/url?sa=i&url=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3AHorse_Riding_around_Saif-ul-Muluk.jpg&psig=AOvVaw1jaDVCuZuFz4yCrGS3mV9H&ust=1587458738870000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCJCt0v_O9ugCFQAAAAAdAAAAABAE
+
+Picture 3:
+https://www.google.com/url?sa=i&url=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3AHorse_ride_on_the_beach_at_dusk_(Unsplash).jpg&psig=AOvVaw3wvp7f_1dZYoFrJOgeEFTH&ust=1587461092548000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCOjh687X9ugCFQAAAAAdAAAAABAD
+
+Picture 4:
+https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pickpik.com%2Fautumn-girl-autumn-gold-yellow-leaves-the-horse-girl-with-horse-63193&psig=AOvVaw2GxPWp8tli2GQ50MsBvUyK&ust=1587486259486000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCKD7iLO19-gCFQAAAAAdAAAAABAD
+
+Picture 5:
+https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.flickr.com%2Fphotos%2Ffamiljenhelsingborg%2F16770817257&psig=AOvVaw2ZSlV7kEmUluJ1JvKrNoH6&ust=1587570296160000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCKDEja_u-egCFQAAAAAdAAAAABAH
+
+Picture 6:
+https://www.google.com/url?sa=i&url=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3AHorse_Riding_around_Saif-ul-Muluk.jpg&psig=AOvVaw2DUV5Jx9Ly_HgnM_muMXkC&ust=1587570374453000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCLjajtXu-egCFQAAAAAdAAAAABAD
+
+Picture 7:
+https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pxfuel.com%2Fen%2Ffree-photo-jionm&psig=AOvVaw1CGyJC7a9B4j4n5wXW0wfV&ust=1587570426567000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCNCQxPTu-egCFQAAAAAdAAAAABAJ
+
 
 ### Acknowledgements
 
