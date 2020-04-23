@@ -1,0 +1,17 @@
+.igen {
+    padding-top: 20px;
+    margin: 0 auto;
+}
+
+.center-form {
+    padding-top: 10px;
+    margin: 0 auto;
+    max-width: 60%;
+}
+
+button[type="submit"] {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    color: "fafafa";
+    background-color: rgb(12, 105, 66);
+}
