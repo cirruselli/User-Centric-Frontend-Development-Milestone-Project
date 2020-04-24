@@ -1,7 +1,7 @@
 body {
     font-family: Roboto, sans-serif;
     padding: 0;
-    margin-bottom: 50px;
+    margin-bottom: 70px;
 }
 
 /* --------------------------------------------------Navbar */
@@ -14,6 +14,7 @@ body {
     margin: 0;
     border: 0;
     position: relative;
+    text-transform: uppercase;
 }
 
 .navbar-brand {
@@ -45,7 +46,7 @@ footer ul li {
 
 footer ul li i {
     color: #fafafa;
-    font-size: 15px;
+    font-size: 20px;
     margin: 5px;
     padding: 10px;
     padding-left: 25px;

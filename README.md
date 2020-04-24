@@ -1,5 +1,7 @@
 # Horseback riding
 
+A website for those who would like to go for both shorter and longer rides out in the wilderness. 
+
 One or two paragraphs providing an overview of your project.
 
 Essentially, this part is your sales pitch.
@@ -16,32 +18,24 @@ Essentially, this part is your sales pitch.
 Use this section to provide insight into your UX process, focusing on who this website is for, what it is that they want to achieve and how your project is the best way to help them achieve these things.
 
 ## Features
-
-In this section, you should go over the different parts of your project, and describe each in a sentence or so.
  
 ### Existing Features
-- Feature 1 - allows users X to achieve Y, by having them fill out Z
-- "Landing page" allows users to navigate to the other pages by the navbar. Also visit social media via the links in the footer.
+- "Landing page" allows users to see pictures of the trails avaiable (via the Bootstrap carousel).  
 - "About" page allows visitors to know more about the webpage owner. 
 - "Trails" page allows users to know about available trailrides.
-
-For some/all of your features, you may choose to reference the specific project files that implement them, although this is entirely optional.
-
+- "Contact" page allows users to contact the webpage owner by filling out the form.
+- All pages allows users to navigate to the other pages by the navbar. Also visit social media via the links in the footer.
 
 ### Features Left to Implement
 - Present the horses available for the trailrides under a page called "Horses". 
+- Accommodation: at site or hotels near by. 
 
 ## Technologies Used
-
-In this section, you should mention all of the languages, frameworks, libraries, and any other tools that you have used to construct this project. For each, provide its name, a link to its official site and a short sentence of why it was used.
 - HTML
 - CSS
-- Bootstrap -
-- Font Awesome - for icons in the footer
-- Google fonts -
-- [JQuery](https://jquery.com)
-    - The project uses **JQuery** to simplify DOM manipulation.
-
+- [Bootstrap](https://getbootstrap.com/): for the navbar, content sections and responsiveness.
+- [Font Awesome](https://fontawesome.com/): for icons in the footer
+- [Google fonts](https://fonts.google.com/): to use the Roboto font
 
 ## Testing
 
@@ -79,12 +73,6 @@ In addition, if it is not obvious, you should also describe how to run your code
 
 ### Content
 - The text for section Y was copied from the [Wikipedia article Z](https://en.wikipedia.org/wiki/Z)
-
-The text for "about" page was copied from
-(http://www.ride-israel.com/?page_id=715&gclid=CjwKCAjwkPX0BRBKEiwA7THxiOV2KCsJluCOM1TPXn9hbpDDzM6Is8Abp39E5QmqbKapEybmlFTnNRoCChMQAvD_BwE)
-and
-(https://arizonahorsebackadventures.com/about/)
-
 
 The text for "trails" and "about" was copied from:
 https://arizonahorsebackadventures.com/

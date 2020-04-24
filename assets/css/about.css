@@ -1,18 +1,27 @@
 .img-fluid {
     margin-top: 1rem;
     border-radius: 5%;
+    
 }
 
 .container-fluid p {
-    text-align: center;
+    text-align: justify;
     margin: 2rem;
     margin-top: 4rem;
     margin-left: 4rem;
+    letter-spacing: 1px;
 }
 
 @media only screen and (max-width: 900px) {
     .container-fluid p {
         margin-top: 1rem;
+        margin-left: 2rem;
+    }
+}
+
+@media only screen and (min-width: 900px) {
+    .container-fluid p {
+        margin-top: 2rem;
         margin-left: 2rem;
     }
 }

@@ -3,14 +3,16 @@
     border-radius: 5%;
 }
 
-.container-fluid p {
-    text-align: center;
-    margin: 2rem;
-}
-
 .rubrik {
     text-align: center;
+    margin-top: 20px;
 
+}
+
+.letterspacing {
+    letter-spacing: 1px;
+    text-align: justify;
+    margin: 2rem;
 }
 
 @media only screen and (max-width: 900px) {
