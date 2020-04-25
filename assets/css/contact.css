@@ -1,14 +1,11 @@
-.igen {
-    padding-top: 20px;
+h5 {
     margin: 0 auto;
-}
-
-.centertext {
-    margin: 0 auto;
+    padding-top: 30px;
+    
 }
 
 .center-form {
-    padding-top: 10px;
+    padding-top: 20px;
     margin: 0 auto;
     max-width: 60%;
 }
@@ -19,6 +16,8 @@ button[type="submit"] {
     color: "fafafa";
     background-color: rgb(12, 105, 66);
 }
+
+/*---------------------------------------------------Media Queries------------------------------------*/
 
 @media only screen and (max-width: 950px) {
     .center-form {
