@@ -1,5 +1,8 @@
-.no-margin {
-    margin-bottom: -300px;
+.container-fluid .row div {
+    display: block; 
+    -webkit-margin-after: -350px;
+    -moz-margin-after: 0px;
+    -o-margin-after: -350px;
 }
 
 .img-fluid {
