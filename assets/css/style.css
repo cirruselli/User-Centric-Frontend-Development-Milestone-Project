@@ -4,29 +4,27 @@ body {
     margin-bottom: 70px;
 }
 
-/* --------------------------------------------------Navbar */
+/* --------------------------------------------------Navbar-------------------------- */
 
 .background {
     background-color: rgb(12, 105, 66);
 }
 
 .navbar {
-    margin: 0;
-    border: 0;
     position: relative;
     text-transform: uppercase;
 }
 
 .navbar-brand {
-    font-size: 1.75rem;
+    font-size: 1.35rem;
     font-weight: 500;
 }
 
 .navbar-nav li {
-    font-size: 1.25rem;
+    font-size: 1.15rem;
 }
 
-/* --------------------------------------------------Footer */
+/* --------------------------------------------------Footer---------------------- */
 
 footer {
     position: fixed;

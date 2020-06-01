@@ -1,7 +1,10 @@
 .img-fluid {
     margin-top: 1rem;
-    border-radius: 5%;
-    
+    border-radius: 5%; 
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+
 }
 
 .container-fluid p {
@@ -11,6 +14,12 @@
     margin-left: 4rem;
     letter-spacing: 1px;
 }
+
+.row .none {
+    margin-top: 1rem;
+}
+
+/*---------------------------------------------------Media Queries------------------------------------*/
 
 @media only screen and (max-width: 900px) {
     .container-fluid p {
@@ -25,3 +34,14 @@
         margin-left: 2rem;
     }
 }
+
+@media (min-width: 992px){
+    .col-lg-3 {
+        -webkit-box-flex: 0;
+        -ms-flex: 0 0 25%;
+        flex: 0 0 30%;
+        max-width: 30%;
+    }
+}
+
+
