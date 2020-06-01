@@ -32,7 +32,7 @@ I created this website to let people (both beginners and advanced riders), who w
 ## Technologies Used
 - HTML
 - CSS
-- [Bootstrap](https://getbootstrap.com/): for the navbar, content sections, modal and responsiveness.
+- [Bootstrap](https://getbootstrap.com/): for the navbar toggler, carousel, modal and responsiveness.
 - [Font Awesome](https://fontawesome.com/): for icons in the footer
 - [Google fonts](https://fonts.google.com/): to use the Roboto font
 
