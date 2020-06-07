@@ -5,7 +5,7 @@ This website provides information for those who would like to go for both shorte
 
 ## UX
 
-I created this website to let people (both beginners and advanced riders), who want to go for horseback riding, have the opportunity to read about trails and horses. The webpage owner can easily get contacted (when the modal works). 
+I created this website to let people (both beginners and advanced riders), who want to go for horseback riding, have the opportunity to read about trails and horses. The webpage owner can easily get contacted to book a trailride (when the modal works). 
 
 ### User stories
 - As a family we would like to go far out in the nature without our car. 
@@ -41,11 +41,9 @@ I created this website to let people (both beginners and advanced riders), who w
 
 The modal (contact page) is not working perfect due to lack of Javascript skills, but this is something I would like to change once I have the Javascript skills to do so. The email is set to required, and that is not working at the moment.
 
-The navbar toggler in mobile view only works from home-page and contact-page. Don't know what's causing the problem on the about-page and trails-page.
-
 The code have been validated in a [html validator](https://validator.w3.org/) and [css validator](https://jigsaw.w3.org/css-validator/) respectively.
 
-Different web-browsers (Opera, Firefox, IE Edge, Chrome) have been used to check the website's layout and that the site works well on different devices.
+Different web-browsers (Opera, Firefox, Microsoft Edge, Chrome) have been used to check the website's layout and that the site works well on different devices.
 
 
 ## Deployment
@@ -60,6 +58,7 @@ Is not allowed until I've finished the course at Code Institute. I'll let you kn
 
 Thanks to Kasia (Slack) for helping me with the ok-button in my modal, at the same time i found the reason behind my problem; what data-dismiss do: https://www.w3schools.com/bootstrap/bootstrap_modal.asp
 Also tutor support helped with this.
+Thanks to my mentor for helping with the final touches.
 
 ### Content
 
