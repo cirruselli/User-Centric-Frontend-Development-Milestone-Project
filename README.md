@@ -48,7 +48,67 @@ Different web-browsers (Opera, Firefox, Microsoft Edge, Chrome) have been used t
 
 ## Deployment
 
-This section should describe the process you went through to deploy the project to a hosting platform (e.g. GitHub Pages or Heroku).
+### <ins>The project was deployed to GitHub Pages using the following steps:</ins>
+
+1. Log in to GitHub and locate the [GitHub Repository](https://github.com/cirruselli/User-Centric-Frontend-Development-Milestone-Project).
+
+2. At the top of the repository, locate the "Settings" button on the menu.
+
+3. Scroll down the Settings page until you locate the "GitHub Pages" section.
+
+4. Under "Source", click the dropdown called "None" and select "Master Branch".
+
+5. The page will automatically refresh.
+
+6. Scroll back down through the page to "Custom Domain" and choose the link already given as example.
+
+7. Press save.
+
+8. The page will automatically refresh.
+
+9. Scroll back down through the page to locate the now published [site link](https://cirruselli.github.io/User-Centric-Frontend-Development-Milestone-Project/) in the "GitHub Pages" section. 
+
+### <ins>Cloning the Repository using the command line:</ins>
+
+1. Log in to GitHub and navigate to the main page of the repository.
+
+2. Under the repository name, click "Clone or download".
+
+3. To clone the repository using HTTPS, under "Clone with HTTPS", click the symbol after the link address. To clone the repository using an SSH key, including a certificate issued by your organization's SSH certificate authority, click Use SSH, then click the symbol after the link address.
+
+4. Open Git Bash.
+
+5. Change the current working directory to the location where you want the cloned directory.
+
+6. Type "git clone", and then paste the URL you copied earlier.
+
+7. Press "Enter" to create your local clone. 
+
+### <ins>Cloning the Repository to GitHub Desktop:</ins>
+
+1. Log in to GitHub and naviate to the main page of the repository.
+
+2. Under the repository name, click "Clone or download".
+
+3. To clone your repository in GitHub Desktop, under "Clone with HTTPS", click Open in Desktop.
+
+4. Follow the prompts in GitHub Desktop to complete the clone.
+
+### <ins>Cloning an empty Repository:</ins>
+
+1. On GitHub, navigate to the main page of the repository.
+
+2. To clone your repository using the command line using HTTPS, under "Quick setup", click the symbol after the link address. To clone the repository using an SSH key, including a certificate issued by your organization's SSH certificate authority, click SSH, then click the symbol after the link address.
+
+    Alternatively, to clone your repository in Desktop, click the dowload symbol. Set up in Desktop and follow the prompts to complete the clone.
+
+3. Open Git Bash.
+
+4. Change the current working directory to the location where you want the cloned directory.
+
+5. Type "git clone", and then paste the URL you copied earlier. 
+
+6. Press "Enter" to create your local clone. 
 
 ## Expanding on my project
 
